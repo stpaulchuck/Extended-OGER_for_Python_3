@@ -1,4 +1,4 @@
-# Extended-OGER
+# Extended-OGER - [refactored and updated for Python 3.7]
 
 ![Project Status: Active – The project has reached a stable, usable
 state and is being actively
@@ -39,11 +39,11 @@ Full documentation for every function and class can be found in the source code.
 ### Requirements
 The required dependencies for Oger are:
 
-    Python 2.6 or higher
-    Numpy 1.1 or higher
-    Scipy 0.7 or higher
-    Matplotlib 0.99 or higher
-    MDP 3.0 or higher
+    Python 3.7 or higher
+    Numpy 1.16 or higher
+    Scipy 1.2.0 or higher
+    Matplotlib 3.0.2 or higher
+    MDP 3.5 or higher
 
 Optional packages are:
 
@@ -57,7 +57,7 @@ Most Linux distributions have the required dependencies listed above in their pa
 
     $ sudo apt-get install python-numpy python-scipy python-mdp
 
-The latest stable version of Oger, version 1.2, can be cloned from the repository (git clone https://github.com/tilemmpon/Extended-OGER) and the included script in src folder can be run as follows:
+The latest stable version of Oger, version 1.2, can be cloned from the repository (git clone https://github.com/stpaulchuck/Extended-OGER) and the included script in src folder can be run as follows:
 
     $ sudo python setup.py install
 or in the folder of the tarball (provided here: https://github.com/tilemmpon/Extended-OGER/blob/master/Oger-1.2.tar.gz) with pip install the tarball:
@@ -66,7 +66,7 @@ or in the folder of the tarball (provided here: https://github.com/tilemmpon/Ext
 I strongly reccommend to use anaconda for python development. In an anaconda environment install the tarball like above using pip.
 
 ### Mac OS/X (original instructions from Oger)
-For Mac OS/X, the Scipy Superpack is a convenient way to install the latest versions of the required dependencies listed above. Note that has only been tested with the standard Python (2.6.4) included with Snow Leopard. 
+For Mac OS/X, the Scipy Superpack is a convenient way to install the latest versions of the required dependencies listed above. Note that this was originallly tested with the standard Python (2.6) included with Snow Leopard. So you need to update your Python. 
 
 Installation is identical to the installation for Linux, described above. 
 ### Windows
