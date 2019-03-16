@@ -1,8 +1,9 @@
 Dependencies:
-Python 2.4 or higher
-Numpy 1.1 or higher  
-Scipy 0.7 or higher
-MDP 3.0 or higher
+Python 3.7 or higher
+Numpy 1.16 or higher  
+Scipy 1.2 or higher
+Matplotlib 3.0 or higher
+MDP 3.5 or higher
 
 Run python setup.py install as superuser for a system-wide install.
 
