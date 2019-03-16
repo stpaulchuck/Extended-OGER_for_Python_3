@@ -35,7 +35,7 @@ classifiers = ["Intended Audience :: Developers",
                "Topic :: Scientific/Engineering :: Mathematics"]
 
 
-setup(name = 'Oger', version = '1.2',
+setup(name = 'Oger', version = '1.3',
       author = "Philemon Brakel, Martin Fiers, Sander Dieleman, Fiontann O'Donnell, Benjamin Schrauwen, David Verstraeten and Tilemachos Bontzorlos",
       author_email = 'pbpop3@gmail.com, mfiers@intec.ugent.be, sander.dieleman@elis.ugent.be, fodonnel@elis.ugent.be, benjamin.schrauwen@elis.ugent.be, david.verstraeten@elis.ugent.be, tilemmpon@hotmail.com',
       maintainer = "Tilemachos Bontzorlos",
