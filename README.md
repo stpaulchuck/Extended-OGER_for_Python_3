@@ -1,4 +1,5 @@
-# Extended-OGER - [refactored and updated for Python 3.7]
+# Extended-OGER Toolbox
+### [refactored and updated for Python 3.7]
 
 ![Project Status: Active – The project has reached a stable, usable
 state and is being actively
