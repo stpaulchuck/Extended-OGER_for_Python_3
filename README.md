@@ -1,9 +1,7 @@
-# Extended-OGER Toolbox
+# Extended-OGER Toolbox 1.3
 ### [refactored and updated for Python 3.7]
 
-![Project Status: Active – The project has reached a stable, usable
-state and is being actively
-developed.](http://www.repostatus.org/badges/latest/active.svg)
+![Project Status: Unsupported - The project has reached a stable, usable state but the author(s) have ceased all work on it.](http://www.repostatus.org/badges/latest/unsupported.svg)
 [![lifecycle](https://img.shields.io/badge/lifecycle-dormant-blue.svg)](https://www.tidyverse.org/lifecycle/#dormant)
 
 ## Introduction
@@ -164,10 +162,10 @@ I would like to thank all the authors for the original Oger (available in https:
 
 ## License
 
-Extended-OGER is licensed under GNU LESSER GENERAL PUBLIC LICENSE Version 3 like the original Oger.
+Extended-OGER 1.3 is licensed under GNU GENERAL PUBLIC LICENSE Version 3.
 
 ## Contribution
 
 To report an issue use the GitHub issue tracker. Please provide as much information as you can.
 
-Contributions are always welcome. Open an issue to contact me. The preferred method of contribution is through a github pull request. Please note that there is a [code of conduct](https://github.com/tilemmpon/Extended-OGER/blob/master/code-of-conduct.md).
+Contributions are always welcome. Open an issue to contact me. The preferred method of contribution is through a github pull request. 
