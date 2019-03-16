@@ -2,7 +2,7 @@
 ### [refactored and updated for Python 3.7]
 
 ![Project Status: Unsupported - The project has reached a stable, usable state but the author(s) have ceased all work on it.](http://www.repostatus.org/badges/latest/unsupported.svg)
-[![lifecycle](https://img.shields.io/badge/lifecycle-dormant-blue.svg)](https://www.tidyverse.org/lifecycle/#dormant)
+[![lifecycle](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://www.tidyverse.org/lifecycle/#dormant)
 
 ## Introduction
 
