@@ -12,17 +12,9 @@ Oger is a Python toolbox for rapidly building, training and evaluating hierarchi
 
  In addition, several additional MDP nodes are provided by the Oger, such as a:
  - Reservoir node
- - Extended reservoir node with input to output mapping
  - Leaky reservoir node
  - Ridge regression node
  - Conditional Restricted Boltzmann Machine (CRBM) node
- - Delay line reservoir (DLR) node
- - Delay line with feedback reservoir (DLRB) node
- - Simple cycle reservoir (SCR) node
- - Cycle reservoir with jumps (CRJ) node
- - Feed forward ESN (FF-ESN) reservoir node
- - Sparse and orthogonal matrices reservoir (SORM) node
- - Cyclic SORMs reservoir (CyclicSORM) node
 
 To the original Oger many new ESN models presented in the literature have been added by Tilemachos Bontzorlos in a R&D project in Master of Autonomous Systems in Bonn-Rhein-Sieg University of Applied Sciences.
 """
