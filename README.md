@@ -1,8 +1,10 @@
 # Extended-OGER Toolbox 1.3
-### [refactored and updated for Python 3.7]
+### [refactored and updated for Python 3.7 by stpaulchuck]
 
 ![Project Status: Unsupported - The project has reached a stable, usable state but the author(s) have ceased all work on it.](http://www.repostatus.org/badges/latest/unsupported.svg)
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://www.tidyverse.org/lifecycle/#dormant)
+
+### [from the original Extended Oger Toolbox repository:]
 
 ## Introduction
 
